@@ -19,12 +19,12 @@ struct student {
 
 FILE *fp;
 
-void AddBook();//kartik
-void BookList();//koushik
-void RemoveBook();//my
-void IssueBook();//krishna manoj
-void IssueList();//my
-void Search();//naveen
+void AddBook();
+void BookList();
+void RemoveBook();
+void IssueBook();
+void IssueList();
+void Search();
 
 int main() {
     while(1) {
